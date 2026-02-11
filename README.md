@@ -41,3 +41,6 @@ This project recreates the original arcade experience with smooth real-time game
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/opengl-pong-cpp.git
+   ```
+2. Open the project in your IDE.  
+3. Build and run the project.
